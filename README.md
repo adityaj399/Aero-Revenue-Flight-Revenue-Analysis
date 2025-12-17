@@ -33,7 +33,7 @@ duration	Flight duration (hours)
 stops	No. of stops
 days_left	Days before booking
 price	Ticket price (₹)
-🧠 Key Insights (EDA Summary)
+#🧠 Key Insights (EDA Summary)
 Business Question	Key Finding
 Most flights by airline?	Vistara has most flights
 Which time slots are busiest?	Morning departures & Evening arrivals
@@ -46,11 +46,11 @@ This insight supports: ✔ More flights on business-heavy routes
 ✔ Business Class expansion
 ✔ Dynamic peak-hour pricing
 
-🛠 Tech Stack
+#🛠 Tech Stack
 Python (Pandas, Matplotlib, Seaborn)
 Jupyter Notebook
 GitHub for version control
-📈 Visual Gallery (from EDA)
+#📈 Visual Gallery (from EDA)
 Airline price comparisons
 Source/Destination city demand
 Time-based price fluctuations
@@ -58,7 +58,7 @@ Booking window analysis
 Route profitability
 (All charts inside the notebook)
 
-🚀 Future Enhancements
+#🚀 Future Enhancements
 Build ML model for price prediction
 Deploy web flight price suggester
 Tableau dashboard publication
